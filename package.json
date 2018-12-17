@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate_scss",
+  "version": "0.0.1",
+  "description": "boilerplate_scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karocksjoelee/boilerplate_scss.git"
+  },
+  "keywords": [
+    "scss",
+    "boilerplate",
+    "html"
+  ],
+  "author": "Joe Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karocksjoelee/boilerplate_scss/issues"
+  },
+  "homepage": "https://github.com/karocksjoelee/boilerplate_scss#readme"
+}
